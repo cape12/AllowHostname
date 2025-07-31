@@ -22,4 +22,5 @@
       - "server-address"
       ```
       `server-address`를 아까 복사한 걸로 붙여넣습니다.
+      ※ 큰따음표(")를 제거하지 마세요!
    - 2-3. 마지막으로 서버를 재시작 혹은 `reload confirm`을 입력합니다.
