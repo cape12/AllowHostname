@@ -1,0 +1,4 @@
+name: AllowHostname
+main: io.github.cape12.AllowHostname.AllowHostname
+version: 1.0
+api-version: 1.21

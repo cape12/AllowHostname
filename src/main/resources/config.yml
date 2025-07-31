@@ -1,0 +1,6 @@
+# 허용할 서버 주소를 입력해주세요.
+allow-hostname:
+- "hostname:port"
+
+# 콘솔에 접속 로그를 띄울지 선택해주세요 (true/false)
+output-log: true
